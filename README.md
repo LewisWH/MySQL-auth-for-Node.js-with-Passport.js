@@ -34,7 +34,7 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 ```
 
-## Executing the application
+## Executing the Application
 
 ```
 npm start
