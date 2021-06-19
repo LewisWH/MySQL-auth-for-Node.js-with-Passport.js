@@ -34,20 +34,26 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 ```
 
+## Executing the application
+
+```
+npm start
+```
+
 ## Screenshots
-###Login Page
+<p align="center">Login Page</p>
 <p align="center">
   <img width="460" height="300" src="/screenshots/login.png">
 </p>
-###Registration Page
+<p align="center">Registration Page</p>
 <p align="center">
   <img width="460" height="300" src="/screenshots/registration.png">
 </p>
-###Flash Errors
+<p align="center">Flash Error Messages</p>
 <p align="center">
   <img width="460" height="300" src="/screenshots/flash.png">
 </p>
-###Welcome Page
+<p align="center">Welcome Page</p>
 <p align="center">
   <img width="460" height="300" src="/screenshots/welcome.png">
 </p>
