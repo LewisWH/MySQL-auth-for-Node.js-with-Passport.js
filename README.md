@@ -1,7 +1,5 @@
 # MySQL-auth-for-Node.js-with-Passport.js
 
-## Description
-
 Login/registration system for Node.js applications using the Express framework, MVC design pattern and Passport.js middleware.
 
 ## Getting Started
@@ -37,16 +35,19 @@ CREATE TABLE `users` (
 ```
 
 ## Screenshots
-
+###Login Page
 <p align="center">
   <img width="460" height="300" src="/screenshots/login.png">
 </p>
+###Registration Page
 <p align="center">
   <img width="460" height="300" src="/screenshots/registration.png">
 </p>
+###Flash Errors
 <p align="center">
   <img width="460" height="300" src="/screenshots/flash.png">
 </p>
+###Welcome Page
 <p align="center">
   <img width="460" height="300" src="/screenshots/welcome.png">
 </p>
